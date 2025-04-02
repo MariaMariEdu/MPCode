@@ -1,7 +1,7 @@
-function Container1781432412011() {
+function Container1781432412011({children}) {
   return (
     <>
-     <h1>Container</h1>
+    {children}
     </>
   );
 }
